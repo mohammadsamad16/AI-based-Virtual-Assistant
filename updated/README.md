@@ -103,5 +103,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 👨‍💻 Author
-Developed by **Amritanshu Shukla**  
+Developed by **Syed Muhammad Samad**  
 Feel free to ⭐ this repo if you like it!
