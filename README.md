@@ -1,2 +1,1 @@
-# AI-based-Virtual-Assistant
 AI Virtual Assistant: Developed an AI-powered virtual assistant using the Olama 3.3 API (Large Language Model) to understand natural language queries, generate intelligent responses, and perform tasks like web search and application control. Gained hands-on experience in NLP, Python programming, and integrating LLM APIs into practical applications.
